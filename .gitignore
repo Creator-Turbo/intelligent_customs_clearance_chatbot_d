@@ -1,0 +1,94 @@
+# -----------------------------
+# Python Cache & Bytecode
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# -----------------------------
+# IDE / Editor
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------------
+# OS / System Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Logs & Temp Files
+# -----------------------------
+logs/
+*.log
+*.out
+*.tmp
+*.temp
+
+# -----------------------------
+# Build / Distribution
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# Environment / Secrets
+# -----------------------------
+.env
+*.env
+
+# -----------------------------
+# Large Data & Models
+# -----------------------------
+data/
+datasets/
+models/
+checkpoints/
+saved/
+*.bin
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pickle
+*.pkl
+*.joblib
+
+# -----------------------------
+# Vector Stores / Embeddings
+# -----------------------------
+vector_store/
+embeddings/
+chroma/
+faiss_index/
+*.npy
+*.npz
+
+# -----------------------------
+# Jupyter & Experiments
+# -----------------------------
+.ipynb_checkpoints/
+Experiments/
+*.ipynb
+
+# -----------------------------
+# Static Build (optional)
+# -----------------------------
+staticfiles/
+tmp/

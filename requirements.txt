@@ -1,0 +1,22 @@
+# Core Frameworks
+flask
+python-dotenv
+
+# LangChain Ecosystem
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+langchain-groq
+
+# Embeddings / Transformers
+huggingface_hub
+
+# PDF & Data Handling
+pypdf
+
+# Vector Database
+pinecone-client
+
+# Local Project (editable install)
+-e .
