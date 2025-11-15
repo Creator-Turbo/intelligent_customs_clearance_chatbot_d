@@ -31,7 +31,7 @@ def load_multiple_pdfs(folder_path):
 
 # Example usage:
 pdf_files = [
-    "D:\\Customs Clearance_chatbot\\data\\Customs Tariff 2024-25_zz1tedk.pdf"
+    "./data/Customs Tariff 2024-25_zz1tedk.pdf"
     # "D:\\Customs Clearance_chatbot\\data\\Navigating Import.pdf",
     # "D:\\Customs Clearance_chatbot\\data\\nepal.pdf",
     # "D:\\Customs Clearance_chatbot\\data\\np_e.pdf",
@@ -63,4 +63,4 @@ embeddings = download_hugging_face_embeddings()
 
 
 
-# print(embeddings)
+# # print(embeddings)
