@@ -8,6 +8,8 @@ langchain-community
 langchain-pinecone
 langchain-huggingface
 langchain-groq
+langchain-text-splitters
+
 
 # Embeddings / Transformers
 huggingface_hub
