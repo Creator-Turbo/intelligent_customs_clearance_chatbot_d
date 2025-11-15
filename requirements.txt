@@ -17,6 +17,6 @@ pypdf
 
 # Vector Database
 pinecone-client
-
+gunicorn
 # Local Project (editable install)
 -e .
