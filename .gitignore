@@ -56,19 +56,19 @@ dist/
 # -----------------------------
 # Large Data & Models
 # -----------------------------
-data/
-datasets/
-models/
-checkpoints/
-saved/
-*.bin
-*.pt
-*.pth
-*.h5
-*.onnx
-*.pickle
-*.pkl
-*.joblib
+# data/
+# datasets/
+# models/
+# checkpoints/
+# saved/
+# *.bin
+# *.pt
+# *.pth
+# *.h5
+# *.onnx
+# *.pickle
+# *.pkl
+# *.joblib
 
 # -----------------------------
 # Vector Stores / Embeddings
